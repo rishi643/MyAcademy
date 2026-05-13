@@ -8,7 +8,7 @@
         "price": 99.99,
         "instructor": "John Doe",
         "isFeatured": true,
-        "image": "../public/guitar.jpg" 
+        "image": "/guitar.jpg" 
       },
       {
         "id": 2,
@@ -18,7 +18,7 @@
         "price": 109.99,
         "instructor": "Jane Smith",
         "isFeatured": false,
-        "image": "/courses/guitar.jpg" 
+        "image": "/Steinway_Vienna_002.jpeg" 
       }
      
     ]
